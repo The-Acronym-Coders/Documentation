@@ -7,3 +7,4 @@ Recipe System
 
    /systems/recipe/intro
    /systems/recipe/inputs/index
+   /systems/recipe/conditions/index

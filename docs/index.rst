@@ -1,5 +1,5 @@
-Welcome to Project's documentation!
-===================================
+Welcome to BGC/CAD/MA/TAC's documentation!
+==========================================
 
 .. toctree::
    :maxdepth: 2
@@ -7,9 +7,6 @@ Welcome to Project's documentation!
 
    /mods/index
    /systems/index
-
-
-
 
 Indices and tables
 ==================

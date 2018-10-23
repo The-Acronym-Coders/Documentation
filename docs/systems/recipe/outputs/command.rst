@@ -9,7 +9,7 @@ similar to having the command run from a Command Block, rather than by a player
 Example
 -------
 
-.. code-block:: json
+.. code:: json
 
     {
         "type": "base:command",

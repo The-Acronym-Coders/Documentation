@@ -10,7 +10,7 @@ in a village, or must not be in a village.
 Example:
 --------
 
-.. code-block:: json
+.. code:: json
 
     {
         "type": "base:village",

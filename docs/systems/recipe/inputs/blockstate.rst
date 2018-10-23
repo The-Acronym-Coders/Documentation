@@ -16,7 +16,7 @@ a location different from the block that is handling the current recipe
 Example:
 --------
 
-.. code-block:: json
+.. code:: json
 
     {
         "type": "base:blockstate",

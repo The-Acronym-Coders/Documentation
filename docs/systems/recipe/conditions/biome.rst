@@ -11,7 +11,7 @@ recipe needs to be in, or outside of the biome.
 Example:
 --------
 
-.. code-block:: json
+.. code:: json
 
     {
         "type": "base:biome",
